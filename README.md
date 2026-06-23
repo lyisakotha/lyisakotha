@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Lyisa%20Kotha&fontAlign=50&fontAlignY=40&color=gradient" />
 <h1 align="center">🌸 Hi, I'm Lyisa Kotha 🌸</h1>
 
 <p align="center">
