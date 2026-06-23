@@ -28,7 +28,7 @@ Become an Industry-Ready Software Engineer and build impactful applications.
 ## 💌 Contact Me
 
 📧 Email:
-**lyisakothalyisakotha@gmail.com**
+**lyisakotha@gmail.com**
 
 ---
 
